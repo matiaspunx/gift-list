@@ -4,6 +4,11 @@
 
 Pueden leer sobre el challenge [acá](https://twitter.com/goncy/status/1466050967808401409)
 
+### Roadmap
+
+-Dia 1: npx create-react-app y escribí una lista de regalos en App.js
+-Dia 2: Le aplicamos un poquito de logica a la lista.
+
 ## Esta app está creada con Create React App, así que simplemente clonan el repo y le dan
 
 ### `npm install`
