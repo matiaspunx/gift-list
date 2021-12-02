@@ -1,14 +1,14 @@
-# GIFT LIST
+# 🎁 GIFT LIST 🎁
 
 ## Esta es mi participación en el challenge #adviency
 
 Pueden leer sobre el challenge [acá](https://twitter.com/goncy/status/1466050967808401409)
 
-# Esta app está creada con Create React App, así que simplemente clonan el repo y le dan a:
+# Esta app está creada con Create React App, así que simplemente clonan el repo y le dan
 
 ### `npm install`
 
-## Una vez que tienen todo instalado los scripts disponibles son
+## Una vez que tienen todo instalado los scripts disponibles son los basicos de Create React App
 
 In the project directory, you can run:
 
