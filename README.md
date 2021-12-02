@@ -4,10 +4,19 @@
 
 Pueden leer sobre el challenge [acá](https://twitter.com/goncy/status/1466050967808401409)
 
-### Roadmap
+### Roadmap de los dias
 
 * Dia 1: npx create-react-app y escribí una lista de regalos en App.js
-* Dia 2: Le aplicamos un poquito de logica a la lista.
+* Dia 2: Le aplicamos un poquito de estilo, con Tailwind, y de logica a la lista.
+
+### Features para los proximos dias
+
+* Agregar Firebase
+* Agregar crear una cuenta y login
+* Formulario para agregar regalos (Cloud Firestore + Storage)
+* URL de usuario con la lista de regalos
+* ABM de regalos
+* Muchas cosas mas :P
 
 ## Esta app está creada con Create React App, así que simplemente clonan el repo y le dan
 
