@@ -4,7 +4,7 @@
 
 Pueden leer sobre el challenge [acá](https://twitter.com/goncy/status/1466050967808401409)
 
-# Esta app está creada con Create React App, así que simplemente clonan el repo y le dan
+## Esta app está creada con Create React App, así que simplemente clonan el repo y le dan
 
 ### `npm install`
 
