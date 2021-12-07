@@ -11,11 +11,11 @@ Pueden leer sobre el challenge [acá](https://twitter.com/goncy/status/146605096
 
 ### Features para los proximos dias
 
-* Agregar Firebase
-* Agregar crear una cuenta y login
-* Formulario para agregar regalos (Cloud Firestore + Storage)
+* ~~Agregar Firebase~~
+* ~~Agregar crear una cuenta y login~~
+* ~~Formulario para agregar regalos (Cloud Firestore + Storage)~~
 * URL de usuario con la lista de regalos
-* ABM de regalos
+* ~~ABM de regalos~~
 * Muchas cosas mas :P
 
 ## Esta app está creada con Create React App, así que simplemente clonan el repo y le dan
