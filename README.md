@@ -8,6 +8,9 @@ Pueden leer sobre el challenge [acá](https://twitter.com/goncy/status/146605096
 
 * Dia 1: npx create-react-app y escribí una lista de regalos en App.js
 * Dia 2: Le aplicamos un poquito de estilo, con Tailwind, y de logica a la lista.
+* Dia 3, 4, 5, 6, 7: Actualicé la app, ahora usa Firebase para manejar usuarios y poder crear la lista de regalos en Firestore y usa Storage para almacenar las imagenes.
+
+#### Si quieren usar Firebase van a tener que ir a [Firebase](https://console.firebase.google.com/) y crear una nueva app y pegar sus credenciales en el archivo .env.local. Si no tienen experiencia con Firebase bueno, me pueden consultar :)
 
 ### Features para los proximos dias
 
