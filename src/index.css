@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 .big-bg {
-  background: url(assets/img/bg.jpeg) no-repeat center right;
+  background: url(assets/img/bg1.jpeg) no-repeat center right;
   background-size: cover;
+  height: 100vh;
 }
 .blur-bg {
   backdrop-filter: blur(5px)
